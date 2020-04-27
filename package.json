@@ -1,6 +1,6 @@
 {
     "name": "@radoslaw-medryk/lib-template",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "scripts": {
@@ -8,11 +8,11 @@
         "prettier": "prettier ./src/**/*.{js,ts,tsx,json} --write"
     },
     "devDependencies": {
-        "@radoslaw-medryk/tslint": "^0.1.7",
-        "prettier": "^1.16.4",
+        "@radoslaw-medryk/tslint": "^0.1.9",
+        "prettier": "^2.0.5",
         "tslint-config-prettier": "^1.18.0",
-        "tslint": "^5.13.0",
-        "typescript": "^3.3.3333"
+        "tslint": "^6.1.2",
+        "typescript": "^3.8.3"
     },
     "dependencies": {}
 }
